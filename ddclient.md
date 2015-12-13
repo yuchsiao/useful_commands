@@ -28,3 +28,4 @@ sudo service ddclient restart
 1. [ddclient usage](http://sourceforge.net/p/ddclient/wiki/usage/)
 2. [tutorial by dyn](https://help.dyn.com/ddclient/)
 3. [cache](https://community.namecheap.com/forums/viewtopic.php?f=6&t=8669)
+4. [ddclient with Namecheap](https://outcoldman.com/en/archive/2014/10/14/ubuntu-as-a-home-server-part-1-dynamic-dns/)
