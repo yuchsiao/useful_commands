@@ -22,3 +22,9 @@ Use the following command
 sudo rm /var/cache/ddclient/ddclient.cache
 sudo service ddclient restart
 ```
+
+## Reference
+
+1. [ddclient usage](http://sourceforge.net/p/ddclient/wiki/usage/)
+2. [tutorial by dyn](https://help.dyn.com/ddclient/)
+3. [cache](https://community.namecheap.com/forums/viewtopic.php?f=6&t=8669)
